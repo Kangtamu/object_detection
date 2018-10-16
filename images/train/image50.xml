@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pictures</folder>
+	<filename>image50.jpg</filename>
+	<path>/home/kangtamu/Pictures/image50.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>992</width>
+		<height>563</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>collapsed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>138</ymin>
+			<xmax>667</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>

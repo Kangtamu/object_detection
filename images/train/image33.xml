@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pictures</folder>
+	<filename>image33.jpg</filename>
+	<path>/home/kangtamu/Pictures/image33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>357</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>collapsed</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>69</ymin>
+			<xmax>227</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>
