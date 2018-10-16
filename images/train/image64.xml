@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pictures</folder>
+	<filename>image64.jpg</filename>
+	<path>/home/kangtamu/Pictures/image64.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>collapsed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>85</ymin>
+			<xmax>1024</xmax>
+			<ymax>530</ymax>
+		</bndbox>
+	</object>
+</annotation>
